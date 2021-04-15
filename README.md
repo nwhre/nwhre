@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sachin
 - 👀 I’m interested in Electrical and Intrumentation engineering
 - 🌱 I’m currently learning CAD, python and other interesting stuff
-- 💞️ I’m looking to collaborate on AutoCAD, Revit and anything related to electrical  to improve my skill set and experience
+- 💞️ I’m looking to collaborate on anything related to electrical  to improve my skill set and experience
 - 📫 You can reach me via sv87@protonmail.com
 
 <!---
